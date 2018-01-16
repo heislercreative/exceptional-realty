@@ -4,4 +4,4 @@ This is the Readme for my site.
 
 # Contact
 
-You can't contact me, suckers.
+My contact details are hidden.
